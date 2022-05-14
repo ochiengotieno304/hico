@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'hico'
+puts Hico.hi(ARGV[0])
